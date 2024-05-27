@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "LeetCode_7d376b39"
+        },
+        {
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
